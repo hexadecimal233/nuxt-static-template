@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   css: ["~/assets/css/main.css"],
   ssr: false, // This is Client Side Only
   vite: { plugins: [tailwindcss()] },
-  modules: ["@nuxt/icon", "@nuxt/image"],
+  modules: ["@nuxt/icon", "@nuxt/image", "@nuxt/ui"],
   app: {
     head: {
       charset: "utf-8",
