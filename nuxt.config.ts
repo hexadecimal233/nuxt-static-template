@@ -19,7 +19,7 @@ export default defineNuxtConfig({
         },
         {
           name: "keywords",
-          content: "Keywordd 1, Keywordd 2, Keywordd 3",
+          content: "Keyword 1, Keyword 2, Keyword 3",
         },
       ],
       link: [
